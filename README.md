@@ -29,19 +29,19 @@
 <p>
   <h3>🧑‍🎓 Learning</h3>
   
-  🏗️ Software architecture
-  ✈️ DevOps
-  🧪 Testing
+  🏗️ Software architecture <br/>
+  ✈️ DevOps <br/>
+  🧪 Testing <br/>
   
 </p>
 
 <p>
   <h3>🕒 Previously worked with</h3>
 
-  <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>  
   <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-  <a href="https://vuejs.org/" title="Vue"><img src="icons/github.png" /></a>
+  <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+  <a href="https://vuejs.org/" title="Vue"><img src="icons/vue.png" /></a>  
   <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
   <a href="https://nodejs.org/" title="Nodejs"><img src="icons/node.png" /></a>
 </p>
